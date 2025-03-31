@@ -6,11 +6,3 @@ Assignment for Module 9 --- Version Control
 acb0490
 ## Favorite Professor
 Professor X
-## EUID
-acb0490
-## Favorite Professor
-Professor X
-## EUID
-acb0490
-## Favorite Professor
-Professor X
